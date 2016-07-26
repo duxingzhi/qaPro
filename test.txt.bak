@@ -2,7 +2,8 @@
 and 1111111
 and 2222222
 
- 
+<<<<<<< HEAD
 update from ¡°ade¡±
- 
+=======
 update from ¡°abc¡±
+>>>>>>> 23a89c0748d36cb473bd128ff60b40a202503114
